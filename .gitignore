@@ -1,0 +1,44 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.Python
+.env
+.venv
+venv/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
+
+# Data and large artifacts (do NOT commit)
+data/
+*.csv
+*.joblib
+*.pt
+*.bin
+models/
+
+# Country data folders (samples / raw data)
+files of USA/
+files of Jamaica/
+files of Nigeria/
+Files of China /
+
+# Common large media formats
+*.pdf
+*.mp4
+*.mov
+*.avi
+*.jpg
+*.jpeg
+*.png
+
+# IDE
+.vscode/
